@@ -9,7 +9,7 @@ Creiamo toolkit, esercizi interattivi, percorsi narrativi e strumenti per immagi
 
 ---
 
-Ogni riga di codice può raccontare chi sei, non solo cosa sai.
+*Ogni riga di codice può raccontare chi sei, non solo cosa sai.*
 
 ---
 
