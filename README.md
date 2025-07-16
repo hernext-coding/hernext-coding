@@ -15,7 +15,7 @@ Creiamo toolkit, esercizi interattivi, percorsi narrativi e strumenti per immagi
 
 ## 💡 Progetti in evidenza
 
-🔸  10 visioni per cambiare il futuro con il coding — ispirate al nostro Manifesto.
+🔸  10 visioni per cambiare il futuro con il coding - ispirate al nostro Manifesto.
 
 ---
 
