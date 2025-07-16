@@ -7,6 +7,8 @@ HER.NEXT() è un progetto educativo che usa la tecnologia come linguaggio creati
 👩‍💻 **Cosa facciamo:**  
 Creiamo toolkit, esercizi interattivi, percorsi narrativi e strumenti per immaginare nuovi modi di avvicinarsi alle STEAM.
 
+---
+
 Ogni riga di codice può raccontare chi sei, non solo cosa sai.
 
 ---
