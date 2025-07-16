@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👾 HER.NEXT()
 
-<!--
-**hernext-coding/hernext-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Coding as expression, not just instruction.** 
 
-Here are some ideas to get you started:
+HER.NEXT() è un progetto educativo che usa la tecnologia come linguaggio creativo, personale e inclusivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 **Cosa facciamo:**  
+Creiamo toolkit, esercizi interattivi, percorsi narrativi e strumenti per immaginare nuovi modi di avvicinarsi alle STEAM.  
+Ogni riga di codice può raccontare chi sei, non solo cosa sai.
+
+---
+
+## 💡 Progetti in evidenza
+
+🔸  > 10 visioni per cambiare il futuro con il coding — ispirate al nostro Manifesto.
+
+---
+
+## 🎯 I nostri valori
+
+✨ Tecnologia accessibile  
+🧠 Creatività prima della tecnica  
+📚 Educazione inclusiva  
+💜 Comunità e ispirazione
+
+---
+
+## 📫 Contattaci
+
+🌐 [www.hernext.io]
+📸 [@hernext.io](https://www.instagram.com/hernext.io/)  
+📩 hello@hernext.it
+
+---
+
+🌀 *HER.NEXT() è il prossimo capitolo della tecnologia. E sarà scritto con molte voci. La tua è una di queste.*
