@@ -12,7 +12,7 @@ Ogni riga di codice può raccontare chi sei, non solo cosa sai.
 
 ## 💡 Progetti in evidenza
 
-🔸  > 10 visioni per cambiare il futuro con il coding — ispirate al nostro Manifesto.
+🔸  10 visioni per cambiare il futuro con il coding — ispirate al nostro Manifesto.
 
 ---
 
