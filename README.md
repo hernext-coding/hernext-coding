@@ -30,9 +30,7 @@ Creiamo toolkit, esercizi interattivi, percorsi narrativi e strumenti per immagi
 
 ## 📫 Contattaci
 
-🌐 [www.hernext.io]
-📸 [@hernext.io](https://www.instagram.com/hernext.io/)  
-📩 hello@hernext.it
+🌐 [www.hernext.io] 📸 [@hernext.io](https://www.instagram.com/hernext.io/) 📩 hello@hernext.it
 
 ---
 
